@@ -30,7 +30,7 @@ Exemplo de testes realizados e com resultados satisfatórios:
 ```./requirements.txt``` - Contém as dependências do projeto.
 
 
-### Como rodar o projeto streamlit:
+### Como rodar o projeto:
 1. Configurando versão do python:
 ```bash
 pyenv local 3.11.9
