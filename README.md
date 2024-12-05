@@ -2,6 +2,8 @@
 ## TP 3 - Data Driven APPs
 ### Aluno: Rodrigo Moreira Avila
 
+GIT: https://github.com/r-moreira/infnet-data-driven-apps-tp3
+
 ---
 ### Sobre o projeto:
 Aplicação que implementa ReAct Agents para resolver problemas usando LLM
