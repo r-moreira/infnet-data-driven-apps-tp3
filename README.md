@@ -25,8 +25,6 @@ Exemplo de testes realizados e com resultados satisfatórios:
 
 ```./src/*``` - Contém o código fonte da aplicação com a resolução de todos os exercícios.
 
-```./images/*``` - Contém os prints para os exercícios.
-
 ```./requirements.txt``` - Contém as dependências do projeto.
 
 
